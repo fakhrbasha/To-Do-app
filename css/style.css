@@ -1,0 +1,15 @@
+.infoTask{
+    margin-top: 100px;
+    border: 1px solid white;
+    padding: 20px;
+    border-radius: 10px;
+    .marks{
+        letter-spacing: 50px;
+    }
+}
+.fa-check:hover , .fa-trash:hover{
+    cursor: pointer;
+}
+.head{
+    height: 100vh;
+}
